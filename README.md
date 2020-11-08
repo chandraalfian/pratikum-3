@@ -37,7 +37,7 @@ untuk menyelesaikannya
 
 # TAMPILAN KETIKA SUDAH DI RUN DAN MASUKAN JUMLAH N 
 
- ![GitHub Logo](gambar/hasillatihan1.png) <h2>
+ ![GitHub Logo](gambar/hasil2.png) <h2>
 
 ### Latihan 2
 # Soal latihan2
